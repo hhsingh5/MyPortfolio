@@ -1880,7 +1880,7 @@ header h6 + p {
 
 header.major h2 {
   color: #2196F3;
-  font-size: 3.5em;
+  font-size: 2.5em;
 }
 
 header.major h2 + p {
@@ -2895,7 +2895,7 @@ input[type="button"]:disabled,
 }
 
 #header > nav ul li {
-  border-top: solid 2px #5ccfb1;
+  border-top: solid 2px #1E88E5;
   display: block;
   padding: 0;
 }
